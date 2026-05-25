@@ -40,7 +40,7 @@ The most significant lesson I learned during this mentoring experience was to st
 
 During our second meeting, I was telling Mr. Tonning about all the things I enjoy, my home server, the different Linux distros I run, the projects I want to build, and he told me, "You've got the bug." That stuck with me. In every conversation we had, in meetings and in class, what I admired most about Mr. Tonning was his natural curiosity and his relentless pursuit of learning more.
 
-I have checked into the hotel and I will never check out. Staying curious, continue building, and having fun while doing it.
+I have checked into the hotel and I will never check out. Staying curious, continuing building, and having fun while doing it.
 
 ## 7. Future Goals and Action Plan
 
